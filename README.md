@@ -2,8 +2,8 @@
 <p>I study programming as a hobby and I'm majoring Computer Science in my home town's university.</p>
 <div align="center">
   <a href="https://github.com/harrykaray">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=harrykaray&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harrykaray&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=harryChrist&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harryChrist&layout=compact&langs_count=8&theme=algolia"/>
 </div>
 
 <div style="display: inline_block"><br>
